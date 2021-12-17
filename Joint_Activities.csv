@@ -1,0 +1,43 @@
+"","HH_ID","activity","Day","Time","Place","Activity"
+"1","ETH001","1","all days","morning","home","Washing hand and face Eating breakfast"
+"2","ETMA00001","1","all days","evening","home",NA
+"3","ETMT00002","1","all days","whole day","home","eating"
+"4","ETBR00002","1","weekdays","morning","Home, school bus","Washing hands, eating breakfast, go to school"
+"5","ETBK00001","1","weekdays","morning","home","Wearing school uniform with cooperation,Eating breakfast,Going to school bus"
+"6","ETMF00003","1","all days","evening","Home","Sleeping"
+"7","ETH001","2","all days","Afternoon","home","Eating lunch"
+"8","ETMA00001","2","all days","evening","Home","Sleeping"
+"9","ETMT00002","2","all days","evening","home","Sleeping"
+"10","ETBR00002","2","weekdays","evening","Home","Eating, playng, watching TV, studying"
+"11","ETBK00001","2","weekdays","Afternoon","Home","Eating, playing , doing assignment"
+"12","ETMF00003","2","all days","whole day","Home","Eating"
+"13","ETH001","3","all days","Afternoon","home","Playing, Singing"
+"14","ETMA00001","3","all days","evening","School","going to and coming from school"
+"15","ETMT00002","3","weekdays","whole day","School","Going to and coming from school"
+"16","ETBR00002","3","Weekends","morning","Church, home","Praying, eating breakfast , watching Children’s TV program"
+"17","ETBK00001","3","Weekends","morning","home","Eating breakfast, playing, watching TV"
+"18","ETMF00003","3","weekdays","whole day","Home","Go to and come back from school"
+"19","ETH001","4","all days","Afternoon","home","Doing homework Studying"
+"20","ETMA00001","4","Weekends","Afternoon","relative's home","visiting relatives"
+"21","ETMT00002","4","all days","evening","home and mosque","Attending religious education"
+"22","ETBR00002","4","Weekends","Afternoon","Home.Recreation area( often hotels) and relatives ‘ home,","Sleeping, washing body, sometimes the go to recreation area and visit relatives.Do homework.Go to beauty salon for hair styling"
+"23","ETBK00001","4","Weekends","Afternoon","Own home and relatives home","Play in the home compound, go to recreation in hotel with playground, Visit relatives"
+"24","ETMF00003","4","all days","evening","Home and Mosque","Attending religious education"
+"25","ETH001","5","all days","Afternoon",NA,"Helping parents when there is work like cleaning home, fetching water and so on"
+"26","ETMA00001","5","","",NA,NA
+"27","ETMT00002","5","","",NA,NA
+"28","ETBR00002","5","","",NA,NA
+"29","ETBK00001","5","all days","evening","home","Watch TV, eat dinner, and sleep"
+"30","ETMF00003","5","weekends","afternoon","Relatives’ home","Visiting relatives"
+"31","ETH001","6","all days","evening","home","sleeping"
+"32","ETMA00001","6","","",NA,NA
+"33","ETMT00002","6","","",NA,NA
+"34","ETBR00002","6","","",NA,NA
+"35","ETBK00001","6","","",NA,NA
+"36","ETMF00003","6","","",NA,NA
+"37","ETH001","7","all days","evening","home","ETAY002 and ETAM003 do whatever they want but ETAS004 is responsible to help parents."
+"38","ETMA00001","7","","",NA,NA
+"39","ETMT00002","7","","",NA,NA
+"40","ETBR00002","7","","",NA,NA
+"41","ETBK00001","7","","",NA,NA
+"42","ETMF00003","7","","",NA,NA
